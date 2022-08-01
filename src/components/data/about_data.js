@@ -21,12 +21,12 @@ const skills = [
     {
         icon: api,
         title: "API Development",
-        about: ["I can develop robust REST API using", <strong key={1}> django-rest-api </strong>]
+        about: ["I can develop robust REST API using", <strong key={1}> PHP </strong>]
     },
     {
         icon: algo,
         title: "Competitive Coder",
-        about: "a daily problem solver in HackerRank and Leetcode"
+        about: "a daily problem solver on Stackoverflow and Leetcode"
     },
     {
         icon: puzzle,

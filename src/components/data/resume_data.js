@@ -1,9 +1,9 @@
 import react from '../../assets/icons/react.svg'
-import python from '../../assets/icons/python.svg'
+//import python from '../../assets/icons/python.svg'
 
 const languages = [
     {
-        icon: python,
+        icon: react,
         name: 'HTML',
         level: '90'
     },
